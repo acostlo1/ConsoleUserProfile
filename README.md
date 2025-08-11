@@ -1,12 +1,35 @@
-# Console User Profile (Java)
+# 🖥️ Console User Profile (Java)
 
-A beginner-friendly Java console app that demonstrates reading input (`String`, `int`, `double`, `boolean`) using `Scanner`, then prints a summary.
+A beginner-friendly **Java console app** that asks for user details (name, age, height, Java experience) and displays them in a clean formatted summary.  
+Built with **Java** and **Scanner** — perfect as a first project.
 
-## How to Run (IntelliJ)
+---
+
+## 📸 Preview
+
+*(Add a screenshot or terminal output here)*
+
+---
+
+## ✨ Features
+- Collects user profile details via console input
+- Demonstrates usage of:
+  - `String`
+  - `int`
+  - `double`
+  - `boolean`
+- Simple, clean, and beginner-friendly
+- Works in **IntelliJ IDEA** or any terminal
+
+---
+
+## 🚀 How to Run
+
+### IntelliJ IDEA
 1. Open the project in IntelliJ IDEA.
-2. Run `Main` (green ▶ button).
+2. Run `Main` (click the green ▶️ button).
 
-## How to Run (Terminal)
+### Terminal
 ```bash
-javac Main.java
-java Main
+javac src/Main.java
+java src/Main
